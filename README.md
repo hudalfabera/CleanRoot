@@ -38,6 +38,7 @@ In Xcode press ⌘R.
 
 ## Project structure
 
+```
 CleanRoot/
 ├── Models/
 │   └── LogEntry.swift            # Typed log entry
@@ -49,8 +50,8 @@ CleanRoot/
 │   └── WebView/
 │       └── WebViewRepresentable.swift  # WKWebView + JS bridge
 └── Resources/
-└── unliker.js                # DOM automation script
-
+    └── unliker.js                # DOM automation script
+```
 ## Disclaimer
 
 This is an unofficial tool provided **for educational and personal-use purposes only**. Automating actions on Instagram may violate their [Terms of Use](https://help.instagram.com/581066165581870), and heavy use can result in account restrictions or suspension.
