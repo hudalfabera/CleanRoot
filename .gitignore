@@ -1,0 +1,22 @@
+# Xcode
+*.xcuserstate
+xcuserdata/
+DerivedData/
+*.swp
+*.lock
+build/
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.build/
+Packages/
+Package.pins
+Package.resolved
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Personal
+*.pem
+*.cer
+.env
